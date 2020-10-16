@@ -10,5 +10,7 @@ React App that lets you search and play youtube videos.
 4. Turning uncontrolled inputs to controlled inputs
 5. Handling form submittal with `event.preventDefault()`
 6. Generating and using Youtube data API
-7. Install and use axios to make API calls.
+7. Install and use axios to make API calls with `async` `await`.
+8. Sending callbacks for event handlers parents to child.
+9. Updating state with fetched data
 
