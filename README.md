@@ -13,4 +13,5 @@ React App that lets you search and play youtube videos.
 7. Install and use axios to make API calls with `async` `await`.
 8. Sending callbacks for event handlers parents to child.
 9. Updating state with fetched data
+10. Impliment styling using Semantic.UI
 
