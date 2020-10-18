@@ -16,4 +16,5 @@ React App that lets you search and play youtube videos.
 10. Impliment styling using Semantic.UI
 11. Handing child click events from parent using callbacks
 12. Conditional rendering of child components
-13. Semantic Ui grid system for styling
+13. Using `<iframe/>` to display embedded videos.
+14. Semantic Ui grid system for styling
