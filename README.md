@@ -15,4 +15,5 @@ React App that lets you search and play youtube videos.
 9. Updating state with fetched data
 10. Impliment styling using Semantic.UI
 11. Handing child click events from parent using callbacks
+12. Conditional rendering of child components
 
