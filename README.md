@@ -14,4 +14,5 @@ React App that lets you search and play youtube videos.
 8. Sending callbacks for event handlers parents to child.
 9. Updating state with fetched data
 10. Impliment styling using Semantic.UI
+11. Handing child click events from parent using callbacks
 
